@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Some Thumbnails - 
+![Netflix-1](https://user-images.githubusercontent.com/63253201/195379785-11156141-8a98-413e-84ff-edd8a1ab5216.png)
+![Uploading Netflix-2.png…]()
+
+
 ## Available Scripts
 
 In the project directory, you can run:
